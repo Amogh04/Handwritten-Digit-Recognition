@@ -12,4 +12,5 @@ A Machine Learning project that classifies handwritten digits from the MNIST dat
 
 <br>
 	
-<img height="250" src="https://media.licdn.com/dms/image/v2/D5612AQE4Qbm-IfchVw/article-inline_image-shrink_1500_2232/article-inline_image-shrink_1500_2232/0/1681986754638?e=1731542400&v=beta&t=TPeEOnrE8867SdOQkHt-Yh5XCPRTA2z8XUiZIB2zpjI" alt="ANN"  />
+<img height="250" src="https://tikz.net/wp-content/uploads/2021/12/neural_networks-004.png" alt="ANN"  />
+	
